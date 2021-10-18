@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Youtube Search</string>
+    <string name="search_hint">Please input keyword</string>
+</resources>
